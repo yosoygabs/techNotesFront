@@ -16,7 +16,7 @@ const Public = () => {
                 </address>
                 <br />
                 <p>Owner: Dan Davidson</p>
-                <img className="imgTechNotes" src="/img/ajustes-ordenador.png" />
+                
             </main>
             <footer>
                 <Link to="/login">Employee Login</Link>
@@ -28,3 +28,4 @@ const Public = () => {
 }
 
 export default Public
+//<img className="imgTechNotes" src="/img/ajustes-ordenador.png" />
