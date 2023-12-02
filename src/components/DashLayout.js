@@ -11,8 +11,6 @@ const DashLayout = () => {
             </div>
             <DashFooter />
         </>
-        
     )
 }
-
 export default DashLayout
